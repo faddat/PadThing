@@ -1,8 +1,9 @@
 # PadThing
 
+The Native Pad for the Future.
+
 [![Join the chat at https://gitter.im/PadThing/PadThing](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/PadThing/PadThing?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-The Native Pad for the Future.
 
 ## Inspiration
 
