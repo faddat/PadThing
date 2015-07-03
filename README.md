@@ -16,8 +16,8 @@ This draws inspiration from text-editors like HackPad, Google Docs, iCloud, Ever
 - Engineer interfaces and foundation for the community.
 - Implementation
 
-### Discourse from Gitter (also on https://gitter.im/PadThing/PadThing/archives/2015/07/03)
-
+### Discourse from Gitter
+UpToDate->https://gitter.im/PadThing/PadThing/archives/2015/07/03 
 
 **@ds0nt**
 
