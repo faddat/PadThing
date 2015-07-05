@@ -16,6 +16,13 @@ This draws inspiration from text-editors like HackPad, Google Docs, iCloud, Ever
 - Engineer interfaces and foundation for the community.
 - Implementation
 
+## Possible Shortcuts
+
+- Abiword implements similar functionality, but doesn't seem to have recent builds for windows or mac.... probably they cannot be made.  
+- Gobby is another alternative, looks damn good in fact: https://gobby.github.io/
+
+
+
 ### Discourse from Gitter
 https://gitter.im/PadThing/PadThing/archives/2015/07/03 
 
